@@ -1,0 +1,8 @@
+Howdy! Welcome to some simple tools for comparing protein accession data to the absolute copy numbers of the proteins identified. 
+What you should do is just go to the Shiny App on Shiny.io at this link : https://proteomicsnews.shinyapps.io/copynumber_plotter/
+And you should download the ProteomicRulerData for HeLa from Bekker-Jennsen et al., Cell Systems which I've simplified to a CSV. 
+You can download it here: https://drive.google.com/file/d/1ehJUwkDJQ4GgFVUwTc_io6Nbr3lPbp_g/view?usp=sharing
+For comparison here are the two files used in figure 5 of the manuscript for this program! 
+The first is the proteins identified by a 60min BOXCAR Run. (https://drive.google.com/file/d/1Jsk68Tw_lrAn-FHFWpQCqxCicDMPCpr1/view?usp=sharing)
+and here is the same file if you search it without match between runs using an EXTENSIVE HeLa digest library on the same instrument using the exact same conditions: 
+(https://drive.google.com/file/d/1hKu0S2s4GiZMrjzMogvYk-9ub1qnia4z/view?usp=sharing)
